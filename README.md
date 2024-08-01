@@ -1,7 +1,3 @@
-Sure! Here's a simplified version of the README file focusing on projects using HTML, CSS, and JavaScript.
-
----
-
 # Portfolio
 
 Welcome to my portfolio! This repository contains various projects that showcase my skills and experience in web development using HTML, CSS, and JavaScript. Each project includes a brief description, the technologies used, and instructions on how to view it.
