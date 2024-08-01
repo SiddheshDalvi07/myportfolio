@@ -29,14 +29,15 @@ Welcome to my portfolio project! This site highlights my skills, experiences, an
 - **HTML**: Structure and content
 - **CSS**: Styling and layout
 - **JavaScript**: Interactivity and functionality
+- **Deployment**: Netlify
 
 ## Installation
 To run this project locally, follow these steps:
 
 1. **Clone the repository**
    ```bash
-   git clone https://github.com/your-username/portfolio-project.git
-   cd portfolio-project
+   git clone https://github.com/your-username/myportfolio.git
+   cd myportfolio
    ```
 
 2. **Open the project**
