@@ -53,7 +53,7 @@ You can navigate through the portfolio by visiting different sections:
 
 ## Project Structure
 ```
-portfolio-project/
+myportfolio/
 ├── index.html
 ├── styles/
 │   └── main.css
