@@ -1,5 +1,3 @@
-Got it! Here’s a revised README file tailored to a portfolio project using HTML, CSS, and JavaScript, and deployed on Netlify:
-
 ---
 
 # Portfolio Project README
