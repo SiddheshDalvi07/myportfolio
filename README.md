@@ -81,7 +81,7 @@ This project is licensed under the MIT License. See the [LICENSE](LICENSE) file 
 Feel free to reach out to me via the following channels:
 
 - **Email**: dalvisiddhesh3@gmail.com
-- **LinkedIn**: [Siddhesh Dalvi](https://www.linkedin.com/in/siddheshdalvi22)
+- **LinkedIn**: [siddheshdalvi22](https://www.linkedin.com/in/siddheshdalvi22)
 - **Instagram**: [__sidmeister__](https://www.instagram.com/_sidmeister_/)
 
 Thank you for checking out my portfolio! I hope you find it informative and engaging.
