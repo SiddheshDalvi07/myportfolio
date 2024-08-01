@@ -55,11 +55,10 @@ You can navigate through the portfolio by visiting different sections:
 ```
 myportfolio/
 ├── index.html
-├── styles/
-│   └── main.css
-├── scripts/
-│   └── main.js
-└── README.md
+├── styles.css
+├── main.js
+├── README.md
+└── LICENSE
 ```
 
 ## Deployment
